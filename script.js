@@ -3,7 +3,7 @@ const puppy = require("puppeteer");
 let heads = [];
 let id = 'testautomationpep@gmail.com';
 let pass = 'sumit@57';
-let rec = 'rashminegi11110@gmail.com';
+let rec = 'sumitnegi05757@gmail.com';
 let subject = 'Top 10 News Headlines of Today';
 
 function wait(ms) {
